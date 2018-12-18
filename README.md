@@ -5,10 +5,3 @@ school project<
 test1
 =======
 > branch 'master' of https://github.com/RyangGyouKim/JSP_Project1.git
-=======
-school project
-<<<<<<< HEAD
-웹프로그래밍 기말고사 과제 정리
-=======
->>>>>>> branch 'master' of https://github.com/RyangGyouKim/JSP_Project1.git
->>>>>>> branch 'master' of https://github.com/RyangGyouKim/JSP_Project1.git
