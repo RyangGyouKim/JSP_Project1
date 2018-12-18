@@ -84,22 +84,22 @@ This objects are for contests.
 #Databases
 데이터베이스는 싱글턴 방식을 사용할 예정
 
-> member table
->> create table member (
->> testId varchar(10) not null,
->> testPw varchar(10) not null,
->> testPhone varchar(11) not null,
->> testEmail varchar(50) default null,
->> testAddr varchar(100) default null,
->> primary key
->> ) default charset=utf8;
+> 1. member table
+>> 1. create table member (
+>> 2. testId varchar(10) not null,
+>> 3. testPw varchar(10) not null,
+>> 4. testPhone varchar(11) not null,
+>> 5. testEmail varchar(50) default null,
+>> 6. testAddr varchar(100) default null,
+>> 7. primary key
+>> 8. ) default charset=utf8;
 
-> contents table
->> create table contents (
->> testIndex int auto_increment,
->> testTitle varchar(30) not null,
->> testDate datetime not null,
->> testCountComment int,
->> testRecommendation int,
->> primary key(testIndex)
->> ) default charset=utf8;
+> 2. contents table
+>> 1. create table contents (
+>> 2. testIndex int auto_increment,
+>> 3. testTitle varchar(30) not null,
+>> 4. testDate datetime not null,
+>> 5. testCountComment int,
+>> 6. testRecommendation int,
+>> 7. primary key(testIndex)
+>> 8. ) default charset=utf8;
