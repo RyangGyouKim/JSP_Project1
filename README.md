@@ -1,15 +1,24 @@
 # JSP_Project1
 school project test
-> À¥ÇÁ·Î±×·¡¹Ö ±â¸»°í»ç °úÁ¦ Á¤¸®
+> ì›¹í”„ë¡œê·¸ëž˜ë° ê¸°ë§ê³ ì‚¬ ê³¼ì œ ì •ë¦¬
 > branch 'master' of https://github.com/RyangGyouKim/JSP_Project1.git
 
 
-> ÀÌÅ¬¸³½º·Î ±êÇãºê ¿Ã¸®´Â ¹æ¹ý¿¡ ´ëÇØ¼­ ¼³¸íÇÑ´Ù.
->> ÀüÁ¦Á¶°Ç, ¼³Ä¡¹æ¹ýÀº ±¸±Û¸µÇØ¼­ µû¶óÇÏ°í ÇÊÀÚ¿Í °°Àº È¯°æÀÌ ÀüÁ¦µÇ¾î ÀÖ¾î¾ßµÈ´Ù.
+> ì´í´ë¦½ìŠ¤ë¡œ ê¹ƒí—ˆë¸Œ ì˜¬ë¦¬ëŠ” ë°©ë²•ì— ëŒ€í•´ì„œ ì„¤ëª…í•œë‹¤.
+>> ì „ì œì¡°ê±´, ì„¤ì¹˜ë°©ë²•ì€ êµ¬ê¸€ë§í•´ì„œ ë”°ë¼í•˜ê³  í•„ìžì™€ ê°™ì€ í™˜ê²½ì´ ì „ì œë˜ì–´ ìžˆì–´ì•¼ëœë‹¤.
 >>> 1. ctrl+shift+3 == ctrl+#
->>> 2. 1°úÁ¤À» ¼öÇàÈÄ º¯°æÇÒ ÆÄÀÏÀÌ ÀÖÀ¸¸é º¯°æ ¸Þ¼¼Áö Àû°í commit and push ¹öÆ°À» ´©¸¥´Ù.
->>> 2-1. commit ¹öÆ°À» ´©¸£¸é? Ä¿¹ÔÀÌ µÇ±â´Â ÇÏ´Âµ¥ ¾÷·Îµå°¡ ¾ÈµÇÀÖÀ¸¹Ç·Î ±êÇãºê¿¡ ¿Ã¶ó°¡Áö´Â ¾Ê´Â´Ù. µû¶ó¼­ Á¦´ë·Î ¿Ã¶ó°¡´Â°É È®ÀÎÇÏ±â À§ÇØ¼­´Â Çª½¬ -> Ä¿¹Ô °úÁ¤À» °ÅÃÄ¾ßµÈ´Ù. ÀÌ·¯ÇÑ °úÁ¤ÀÌ ¹ø°Å·Î¿ì¹Ç·Î commit and push ¹öÆ°À» ÀÌ¿ëÇØ °£ÆíÇÏ°Ô ÇÑ´Ù.
->>> 3. 2°úÁ¤ÀÌ ³¡³­ÈÄ ¾÷·Îµå µÇ¾ú´Ù´Â ¸Þ½ÃÁö°¡ ¶ß¸é Á¤»óÀûÀ¸·Î ±êÇãºê¿¡¼­ ¾÷·Îµå µÇ¾ú´ÂÁö È®ÀÎÇÑ´Ù.
+>>> 2. 1ê³¼ì •ì„ ìˆ˜í–‰í›„ ë³€ê²½í•  íŒŒì¼ì´ ìžˆìœ¼ë©´ ë³€ê²½ ë©”ì„¸ì§€ ì ê³  commit and push ë²„íŠ¼ì„ ëˆ„ë¥¸ë‹¤.
+>>> 2-1. commit ë²„íŠ¼ì„ ëˆ„ë¥´ë©´? ì»¤ë°‹ì´ ë˜ê¸°ëŠ” í•˜ëŠ”ë° ì—…ë¡œë“œê°€ ì•ˆë˜ìžˆìœ¼ë¯€ë¡œ ê¹ƒí—ˆë¸Œì— ì˜¬ë¼ê°€ì§€ëŠ” ì•ŠëŠ”ë‹¤. ë”°ë¼ì„œ ì œëŒ€ë¡œ ì˜¬ë¼ê°€ëŠ”ê±¸ í™•ì¸í•˜ê¸° ìœ„í•´ì„œëŠ” í‘¸ì‰¬ -> ì»¤ë°‹ ê³¼ì •ì„ ê±°ì³ì•¼ëœë‹¤. ì´ëŸ¬í•œ ê³¼ì •ì´ ë²ˆê±°ë¡œìš°ë¯€ë¡œ commit and push ë²„íŠ¼ì„ ì´ìš©í•´ ê°„íŽ¸í•˜ê²Œ í•œë‹¤.
+>>> 3. 2ê³¼ì •ì´ ëë‚œí›„ ì—…ë¡œë“œ ë˜ì—ˆë‹¤ëŠ” ë©”ì‹œì§€ê°€ ëœ¨ë©´ ì •ìƒì ìœ¼ë¡œ ê¹ƒí—ˆë¸Œì—ì„œ ì—…ë¡œë“œ ë˜ì—ˆëŠ”ì§€ í™•ì¸í•œë‹¤.
 
-
-»ç¿ë¹æ¹ý¿¡ ´ëÇØ¼­´Â °è¼ÓÇØ¼­ ¿¬±¸ÇÒ ¿¹Á¤
+<br><br><br>
+<h2> RyangGyouKim</h2>
+<div>
+ <img width="300" src="https://user-images.githubusercontent.com/45614978/50182789-97797880-0353-11e9-849e-a81c59ac5f71.jpg"> 
+ </div>
+ 
+ 
+ 
+ 
+ì‚¬ìš©ë°©ë²•ì— ëŒ€í•´ì„œëŠ” ê³„ì†í•´ì„œ ì—°êµ¬í•  ì˜ˆì •
+READE.ME ì‚¬ìš©ë²•ì— ì—°êµ¬í•  ì˜ˆì •
