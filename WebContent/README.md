@@ -9,6 +9,7 @@
 >>> 총 20점만점
 
 
+
 #board.jsp
 board.jsp is basic screen of this web project.
 It has the following functions.
@@ -22,6 +23,7 @@ It has the following functions.
 > 4. contest
 >> 게시판 기능
 >> 4.1 fileUpload
+
 
 
 #login.jsp
@@ -39,6 +41,8 @@ This has simple objects.
 >> 회원 x, 입력정보 x - history.go(-1)로 다시 시도 및 안내문구
 > 4. btnSignUp
 >> signUp.jsp로 이동
+
+
 
 #signUp.jsp 
 This has some objects for signup.
@@ -60,6 +64,8 @@ This has some objects for signup.
 >> 회원가입 버튼 누를시 DB 조회하여 중복이 아니라면 회원가입 승인 후 login.jsp로 이동
 >> 회원가입 버튼 누를시 DB 조회하여 중복이라면 이미 가입한 회원 혹은 아이디 중복이라고 안내 메세지 안내한 후 history.go(-1) 실행
 
+
+
 #contents.jsp
 This objects are for contests.
 > 1. testIndex
@@ -72,6 +78,8 @@ This objects are for contests.
 >> 댓글수
 > 5. testRecommendation
 >> 추천수
+
+
 
 #Databases
 데이터베이스는 싱글턴 방식을 사용할 예정
